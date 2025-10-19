@@ -1,10 +1,10 @@
-# 🚦 TrafficFlowGame
+# TrafficFlowGame
 
 A **Java-based Object-Oriented Programming (OOP)** project that simulates real-world traffic flow using polymorphic vehicle classes, geometric logic, and modular design principles. Built to demonstrate clean class hierarchies, abstraction, and maintainable code structure.
 
 ---
 
-## 💡 Overview
+## Overview
 
 **TrafficFlowGame** is a simulation that models vehicles — including cars, trucks, and ambulances — moving within a traffic environment.  
 The project emphasizes **software design principles** and **object-oriented architecture**, showcasing strong fundamentals in Java development such as:
@@ -18,17 +18,17 @@ This project serves as both an educational exercise and a demonstration of scala
 
 ---
 
-## 🧠 Technical Highlights
+## Technical Highlights
 
-- 🧩 **OOP Architecture:** Implements inheritance hierarchies where all vehicle types extend from a base `TrafficElement` class.  
-- 🔁 **Interface Implementation:** `Movable` interface defines consistent movement behavior across all objects.  
-- 🏗️ **Abstraction & Encapsulation:** Abstract classes and private instance variables promote maintainable and extensible code.  
-- 📏 **Geometric Modeling:** Provided `Point` and `Polygon` classes handle positional logic, aiding movement and collision checks.  
-- 🚑 **Polymorphism in Action:** Multiple vehicle subclasses (Car, Truck, Ambulance) demonstrate runtime method overriding and behavior customization.  
+- **OOP Architecture:** Implements inheritance hierarchies where all vehicle types extend from a base `TrafficElement` class.  
+- **Interface Implementation:** `Movable` interface defines consistent movement behavior across all objects.  
+- **Abstraction & Encapsulation:** Abstract classes and private instance variables promote maintainable and extensible code.  
+- **Geometric Modeling:** Provided `Point` and `Polygon` classes handle positional logic, aiding movement and collision checks.  
+- **Polymorphism in Action:** Multiple vehicle subclasses (Car, Truck, Ambulance) demonstrate runtime method overriding and behavior customization.  
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 TrafficFlowGame/
 ├── src/
@@ -46,7 +46,7 @@ TrafficFlowGame/
 ├── LICENSE
 └── README.md
 
-🚀 How to Run
+How to Run!
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE (e.g., Eclipse, IntelliJ).
