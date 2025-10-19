@@ -1,6 +1,6 @@
 # TrafficFlowGame
+<img src="https://github.com/mostafaelamin/TrafficFlowGame/blob/main/TrafficFlowGif.gif" alt="TrafficFlowGame Gameplay Demo" width="700"/>
 
-![TrafficFlowGame Gameplay Demo](https://github.com/mostafaelamin/TrafficFlowGame/blob/main/TrafficFlow.gif?raw=true)
 A **Java-based Object-Oriented Programming (OOP)** project that simulates real-world traffic flow using polymorphic vehicle classes, geometric logic, and modular design principles. Built to demonstrate clean class hierarchies, abstraction, and maintainable code structure.
 
 ---
