@@ -14,7 +14,7 @@ The project emphasizes **software design principles** and **object-oriented arch
 - Abstraction and encapsulation  
 - Code reusability and modularity  
 
-This project serves as both an educational exercise and a demonstration of scalable OOP architecture.
+This project serves as an demonstration of scalable OOP architecture.
 
 ---
 
@@ -30,21 +30,21 @@ This project serves as both an educational exercise and a demonstration of scala
 
 ## Project Structure
 
-TrafficFlowGame/
-├── src/
-│   └── game/
-│       ├── Ambulance.java         // A fast-moving, autonomous vehicle subclass
-│       ├── Car.java               // The player-controlled vehicle subclass
-│       ├── Game.java              // The abstract engine for the game window and loop
-│       ├── Movable.java           // An interface defining movement behavior
-│       ├── Point.java             // A geometric helper class for coordinates
-│       ├── Polygon.java           // A geometric helper class for defining shapes
-│       ├── TrafficElement.java    // The abstract base class for all vehicle objects
-│       ├── TrafficFlowGame.java   // The main program entry point and game controller
-│       └── Truck.java             // A slow-moving, autonomous vehicle subclass
-├── .gitignore
-├── LICENSE
-└── README.md
+* **TrafficFlowGame/**
+    * **src/**
+        * **game/**
+            * `Ambulance.java` - A fast-moving, autonomous vehicle subclass
+            * `Car.java` - The player-controlled vehicle subclass
+            * `Game.java` - The abstract engine for the game window and loop
+            * `Movable.java` - An interface defining movement behavior
+            * `Point.java` - A geometric helper class for coordinates
+            * `Polygon.java` - A geometric helper class for defining shapes
+            * `TrafficElement.java` - The abstract base class for all vehicle objects
+            * `TrafficFlowGame.java` - The main program entry point and game controller
+            * `Truck.java` - A slow-moving, autonomous vehicle subclass
+    * `.gitignore`
+    * `LICENSE`
+    * `README.md`
 
 How to Run!
 
