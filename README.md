@@ -32,16 +32,16 @@ This project serves as both an educational exercise and a demonstration of scala
 
 TrafficFlowGame/
 ├── src/
-│ └── game/
-│ ├── Ambulance.java # Specialized vehicle subclass
-│ ├── Car.java # Standard vehicle subclass
-│ ├── Game.java # Core simulation controller
-│ ├── Movable.java # Interface defining movement behavior
-│ ├── Point.java # Provided geometric helper class
-│ ├── Polygon.java # Provided geometric helper class
-│ ├── TrafficElement.java # Abstract base class for all vehicles
-│ ├── TrafficFlowGame.java # Main program entry point
-│ └── Truck.java # Heavy vehicle subclass
+│   └── game/
+│       ├── Ambulance.java         // A fast-moving, autonomous vehicle subclass
+│       ├── Car.java               // The player-controlled vehicle subclass
+│       ├── Game.java              // The abstract engine for the game window and loop
+│       ├── Movable.java           // An interface defining movement behavior
+│       ├── Point.java             // A geometric helper class for coordinates
+│       ├── Polygon.java           // A geometric helper class for defining shapes
+│       ├── TrafficElement.java    // The abstract base class for all vehicle objects
+│       ├── TrafficFlowGame.java   // The main program entry point and game controller
+│       └── Truck.java             // A slow-moving, autonomous vehicle subclass
 ├── .gitignore
 ├── LICENSE
 └── README.md
