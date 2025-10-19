@@ -1,4 +1,4 @@
-# TrafficFlowGame
+# SmartTrafficSim
 
 ![TrafficFlowGame Gameplay Demo](https://github.com/mostafaelamin/TrafficFlowGame/blob/main/TrafficFlowGif.gif?raw=true)
 
@@ -8,7 +8,7 @@ A **Java-based Object-Oriented Programming (OOP)** project that simulates real-w
 
 ## Overview
 
-**TrafficFlowGame** is a simulation that models vehicles: including cars, trucks, and ambulances (moving within a traffic environment).  
+**SmartTrafficSim** is a simulation that models vehicles: including cars, trucks, and ambulances (moving within a traffic environment).  
 The project emphasizes software design principles and object-oriented architecture, showcasing strong fundamentals in Java development such as:
 
 - Inheritance and polymorphism  
@@ -32,7 +32,7 @@ This project serves as an demonstration of scalable OOP architecture.
 
 ## Project Structure
 
-* **TrafficFlowGame/**
+* **SmartTrafficSim/**
     * **src/**
         * **game/**
             * `Ambulance.java` - A fast-moving, autonomous vehicle subclass
